@@ -11623,3 +11623,22 @@ footer a:hover, footer a:active, footer a:focus {
     max-width: 17rem;
   }
 }
+
+.imgCabazes {
+  border-radius: 50%;
+}
+
+.localizacao {
+  position: relative;
+  left: 47%;
+  font-size: 50px;
+  color: white;
+}
+
+.googleMaps {
+  border-radius: 1rem;
+}
+
+.textJustify {
+  text-align: justify;
+}
