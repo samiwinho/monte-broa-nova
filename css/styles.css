@@ -11313,6 +11313,11 @@ html {
   -webkit-text-fill-color: transparent;
 }
 
+.verdePrimario{
+  color: #54BF29;
+}
+
+
 aside,
 section {
   padding-top: 5rem;
