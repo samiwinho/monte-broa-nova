@@ -7,6 +7,7 @@
 // Scripts
 // 
 
+// Text Animations on scroll page
 function reveal() {
     var reveals = document.querySelectorAll(".reveal");
   
